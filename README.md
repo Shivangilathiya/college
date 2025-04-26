@@ -1,4 +1,4 @@
 # college
 This is my first repository.
 <br>
-author-shivangi lathiya
+author-shivangi Bhaveshbhai lathiya
